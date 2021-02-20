@@ -1,5 +1,8 @@
 # ASB-Braille-Keyboard-APK
 
+[EN]Virtual keyboard for Android mobile devices based on Braille writing system for people who has visual problems.<br>
+[TR]Görme sorunu yaşayan insanlar için geliştirilmiş, Android mobil cihazlarda kullanılabilen, Braille yazı sistemi tabanlı ekran klavyesi.
+
 # Kullanım Kılavuzu [TR]
 
 ## Kurulum
