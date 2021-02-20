@@ -1,6 +1,6 @@
 # ASB-Braille-Keyboard-APK
 
-# Kullanıcı Kılavuzu [TR]
+# Kullanım Kılavuzu [TR]
 
 ## Kurulum
 
